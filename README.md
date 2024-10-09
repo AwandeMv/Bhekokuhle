@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhekokuhle Primary School</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        /* Keyframes for background animation */
+        @keyframes backgroundAnimation {
+            0% { background-color: #0000ff; }
+            100% { background-color: #f0f0f0; }
+        }
+
+        /* Logo fade-in effect */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .entry-animation {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            animation: backgroundAnimation 3s ease-in-out forwards;
+            background-color: #0000ff;
+        }
+
+        .entry-animation img {
+            width: 200px;
+            animation: fadeIn 2s ease-in;
+        }
+    </style>
+</head>
+<body>
+    <!-- Entry animation section -->
+    <div class="entry-animation">
+        <img src="<img alt="Bhekokuhle Primary Logo" 
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bhekokuhle_Primary_Logo.svg/180px-Bhekokuhle_Primary_Logo.svg.png?20181216103838" 
+     decoding="async" 
+     width="180" 
+     height="180" 
+     srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bhekokuhle_Primary_Logo.svg/270px-Bhekokuhle_Primary_Logo.svg.png?20181216103838 1.5x, 
+             https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bhekokuhle_Primary_Logo.svg/360px-Bhekokuhle_Primary_Logo.svg.png?20181216103838 2x" 
+     data-file-width="180" 
+     data-file-height="180">
+</p>
+<strong>Striving For The Best</strong>
+    </div>
+
+    <!-- Main content will go here after the animation ends -->
+    <script>
+        // Automatically hide animation after 3 seconds
+        setTimeout(function() {
+            document.querySelector('.entry-animation').style.display = 'none';
+        }, 3000);
+    </script>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhekokuhle Primary School</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0789fa; /* Light blue background */
+            color: #333;
+        }
+
+        header, nav, section, footer {
+            margin: 20px;
+            padding: 20px;
+            background-color: #ffeb3b; /* Yellow background */
+            border-radius: 8px;
+        }
+
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #0044cc; /* Dark blue for links */
+            font-weight: bold;
+            transition: color 0.3s, text-shadow 0.3s;
+        }
+
+        nav a:hover {
+            color: #4fff3b; /* Green glow */
+            text-shadow: 0 0 8px #ffeb3b; /* Bright glowing effect */
+        }
+
+        section {
+            background-color: #fffacd; /* Light yellow for sections */
+        }
+
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            background-color: #0044cc; /* Dark blue background for footer */
+            color: #ffffff; /* White text in footer */
+        }
+
+        footer a {
+            color: #ffeb3b;
+            text-shadow: 0 0 5px #ffeb3b;
+        }
+
+        footer a:hover {
+            color: #ffffff;
+            text-shadow: 0 0 5px #ffffff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Bhekokuhle Primary School</h1>
+    <p>We provide a holistic education experience, combining academic excellence and a vibrant extracurricular environment.</p>
+</header>
+
+<nav>
+    <a href="#about-us">About Us</a>
+    <a href="#admissions">Admissions</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Home Page</h2>
+    <p>Bhekokuhle Primary School is committed to nurturing well-rounded individuals through our diverse curriculum and extracurricular activities.</p>
+
+<img src="C:\Users\awand\OneDrive\Desktop\block 3\bhekokuhle 5.jpg" alt="Group of people in a hall">
+   
+       <h3>Recent Events</h3>
+
+   <img src="C:\Users\awand\OneDrive\Desktop\block 3\bhekokuhle 10.jpg" alt="Heritage day">
+
+<h3>Recent events</h3>
+<p> Hertage day
+<p>
+
+
+    <h3>Upcoming Events</h3>
+    <p>Grade R Graduation on November 2024
+<p>Grade 7 farewell on November 2024<br>
+<p>Ushaka Marine visit of foundation phase and grade 4-6<br>
+
+</p>
+    
+    <h3>Quick Links</h3>
+    <ul>
+        <li><a href="#about-us">About Us</a></li>
+        <li><a href="#admissions">Admissions</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</section>
+<section>
+
+             <img src="C:\Users\awand\OneDrive\Desktop\block 3\bhekokuhle 6.jpg" alt="Group of people in a hall">
+</section>
+
+
+<section id="about-us">
+    <h2>About Us</h2>
+    <h3>School Mission and Vision</h3>
+    <p>Our mission is to foster a nurturing environment where every child can excel academically and socially.</p>
+    
+    <h3>History and Background</h3>
+    <p>Bhekokuhle Primary School was founded in 1900-01-03 and has grown to become a leader in primary education in the region.</p>
+    
+    <h3>Faculty and Staff</h3>
+    <p>Our experienced and dedicated staff are committed to providing the best education for our students.<br>
+<br>
+<p>Principal; Mr Mandla Gabiel Mgenge<br>
+<p>Number of Teachers; 29<br>
+<p>Number of Non Teachers; 02<br>
+<p>Number of Food Handlers; 07<br>
+<p>Number of Students; 1011<br>
+</p>
+    
+    <h3>Achievements and Recognitions</h3>
+    <p>Bhekokuhle has been recognized for excellence in both academics and extracurricular activities.</p>
+
+<img src="C:\Users\awand\OneDrive\Desktop\block 3\bhekokuhle 4.jpg" alt="Group of people in a hall">
+
+</section>
+
+<section id="admissions">
+    <h2>Admissions Page</h2>
+    <p>Start your journey with Bhekokuhle Primary School by learning about our admissions process.<br>
+Admission date: 1April 2024 to 31 October 2024</p>
+    
+    <h3>Overview of the Admissions Process</h3>
+    <p>We have a simple and straightforward admissions process. Click here to get started!</p>
+    
+    <h3>Requirements</h3>
+    <p>Ensure you have the necessary documents and meet all the deadlines to secure your place.</p>
+    
+    <h3>Tuition and Fees</h3>
+    <p>
+No School Fees
+</p>
+    
+    <h3>FAQs</h3>
+    <p>Find answers to the most frequently asked questions about admissions.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Page</h2>
+    <h3>School Address and Phone Number</h3>
+    <p>Bhekokuhle Primary School,Shongweni Road, Dassenhoek, Nagina, 3604</p>
+    <p>Postal Address: P.O. Box 1022, Nagina, 3604
+    <p>Phone:  0662989408<br>
+Secretary office no: 082 924 0148</p>
+    
+    <h3>Email Addresses</h3>
+    <p>General Inquiries: <a href="mailto:mandlamgenge70@gmail.com">mandlamgenge70@gmail.com</a></p>
+    <p>Admissions: <a href="mailto:mandlamgenge70@gmail.com">mandlamgenge70@gmail.com</a></p>
+    
+    <h3>Contact Form</h3>
+    <form action="#" method="post">
+        <label for="name">Your Name:</label><br>
+        <input type="text" id="name" name="name" required><br><br>
+<label for="phone number">Your Number:</label><br>
+        <input type="text" id="phone number" phone number="phone number" required><br><br>
+        <label for="email">Your Email:</label><br>
+        <input type="email" id="email" name="email" required><br><br>
+        <label for="message">Your Message:</label><br>
+        <textarea id="message" name="message" rows="5" required></textarea><br><br>
+        <input type="submit" value="Send Message">
+    </form>
+    
+    </section>
+
+<footer>
+    &copy; 2024 Bhekokuhle Primary School
+</footer>
+
+</body>
+</html>
